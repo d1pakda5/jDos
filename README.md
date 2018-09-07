@@ -1,5 +1,5 @@
 # jDos
-Collection tool to perform Denial Of Service attack
+Collection tools to perform Denial Of Service attack
 
 # Installation
 ```
