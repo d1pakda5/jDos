@@ -25,4 +25,4 @@ This tool is released for authorized testing and educational purposes only.
 Use at your own risk.
 
 # Contact
-[@j3ssiejjj!](https://twitter.com/j3ssiejjj)
+[@j3ssiejjj](https://twitter.com/j3ssiejjj)
