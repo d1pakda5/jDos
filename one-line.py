@@ -46,7 +46,7 @@ list_tools = {
 
 	'hulk' : {
 		'name' : 'hulk',
-		'command': 'python hulk [target]'
+		'command': 'python hulk.py [target]'
 	},
 
 	'Pyloris' :	{
