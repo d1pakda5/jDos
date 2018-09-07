@@ -1,6 +1,12 @@
 # jDos
 Collection tool to perform Denial Of Service attack
 
+# Installation
+```
+chmod +x -R .
+pip install psutil
+```
+
 # Usage
 ```
 
